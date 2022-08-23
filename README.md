@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm software engineer working in WTC, India.</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-
+<p align="left">
+<a href="https://leetcode.com/gopalswami30/">
+    <img src="https://cp-logo.vercel.app/leetcode/gopalswami30" alt="Leet code rating" />
+  </a>
+</p>  
 - 🔭 I’m currently working on **Wunderman Thompson Commerce**
 
 - 🌱 I’m currently learning **Kafka, Elastic Search.**
