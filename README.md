@@ -22,7 +22,13 @@
 <a href="https://www.leetcode.com/gopalswami30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopalswami30" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gopalswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gopalswami" height="30" width="40" /></a>
 </p>
-<b>&#128200; Programming Status</b>
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<b>&#128200; Programming Stats</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/gopalswami30?theme=light&font=Karma&ext=contest" />
 </p>
