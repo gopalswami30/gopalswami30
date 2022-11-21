@@ -6,7 +6,7 @@
 </p>  
 - 🔭 I’m currently working on **Wunderman Thompson Commerce**
 
-- 🌱 I’m currently learning **Kafka, Elastic Search.**
+- 🌱 I’m currently learning **AWS.**
 
 - 👯 I’m looking to collaborate on **java based open source project**
 
