@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **java based open source project**
 
-- 💬 Ask me about **Java , React.**
+- 💬 Ask me about **Java , NextJS , React.**
 
 - 📫 How to reach me **gopalswami538@gmail.com**
 
